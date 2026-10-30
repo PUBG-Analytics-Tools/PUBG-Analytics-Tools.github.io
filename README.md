@@ -35,4 +35,3 @@ All rights reserved.
 ---
 
 **PUBG Analytics Tools — 2026**
-
